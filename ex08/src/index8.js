@@ -6,6 +6,6 @@ function main()
 
     return sum;
 }
-console.log(main());
+console.log(main(numOne, numTwo));
 
 module.exports = main;
