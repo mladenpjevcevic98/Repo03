@@ -1,4 +1,4 @@
-function main()
+function main(numOne, numTwo)
 {
     var numOne;
     var numTwo;
